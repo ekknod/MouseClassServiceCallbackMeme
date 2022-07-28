@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MouseClassServiceCallbackMeme", "MouseClassServiceCallbackMeme.vcxproj", "{D2002713-76DD-4F66-921E-42F9405372B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Debug|ARM64.Build.0 = Debug|ARM64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Debug|x64.ActiveCfg = Debug|x64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Debug|x64.Build.0 = Debug|x64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Debug|x64.Deploy.0 = Debug|x64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Release|ARM64.ActiveCfg = Release|ARM64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Release|ARM64.Build.0 = Release|ARM64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Release|ARM64.Deploy.0 = Release|ARM64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Release|x64.ActiveCfg = Release|x64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Release|x64.Build.0 = Release|x64
+		{D2002713-76DD-4F66-921E-42F9405372B1}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB3EBD45-1882-414A-A597-95D80D86AD83}
+	EndGlobalSection
+EndGlobal
